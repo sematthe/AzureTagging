@@ -8,7 +8,7 @@ $tagsToAdd = @{
     costCenter  = '56789'
     environment = 'development' 
     systemRole  = 'database'
-    elemental = 'oxygen'
+    elemental = 'lessoxygen'
 }
 # List of resoure groups to update
 $resourceGroupList = @("spoke-a", "hub")
